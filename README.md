@@ -14,14 +14,11 @@
     <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></code> </a>
     <a href="https://www.javascript.com/" target="_blank"> <code> <img height="30" src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-javascript.gif"/></code> </a> 
     <a href="https://www.w3schools.com/html/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code> </a> 
-    <a href="https://unity.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
-    <a href="https://unity.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
-    <a href="https://unity.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
-    <a href="https://unity.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
+    <a href="https://www.w3schools.com/html/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code> </a> 
 </p> 
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 <p>
     <a href="https://www.adobe.com/tr/products/xd.html" target="_blank"> <code> <img height="30" src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-adobe-xd.gif"/></code> </a> 
