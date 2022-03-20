@@ -15,7 +15,7 @@
     <a href="https://www.w3schools.com/html/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code> </a> 
 </p> 
 
-<br></br>
+
 
 ## 🚀 Kullandığım Programlar
 <p align="left">
@@ -24,6 +24,8 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code> </a> 
     <a href="https://www.figma.com/" target="_blank"> <code> <img height="30" src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-figma.gif"/></code> </a> 
 </p>
+
+<br></br>
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
