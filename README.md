@@ -2,8 +2,10 @@
 <p>İnternet dünyasında kendini yazılımcı olarak geliştirmeye çalışan biri 🌱</p>
 <p>Birçok yazılım dili hakkında temel seviyede bilgi sahibiyim. Son zamanlarda aktif olarak Flutter Framework'ü ile ilgileniyorum.</p>
 
-<code><img height="30" src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code>    
-
+## 🚀 Languages
+<p align="left">
+    <a href="https://www.java.com" target="_blank"> <code><img height="30" src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code></a>    
+</p>
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
