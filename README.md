@@ -4,9 +4,11 @@
 
 ## 🚀 Languages
 <p align="left">
-    <a href="https://www.java.com/tr/" target="_blank"> <code> <img height="30" src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code> </a>    
+    <a href="https://www.java.com/tr/" target="_blank"> <code> <img height="30"             src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code> </a> 
+    
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/fluency/96/000000/flutter.png"/> </a>
 </p>
-<a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/fluency/96/000000/flutter.png"/> </a>
+
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
