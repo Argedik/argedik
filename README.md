@@ -17,9 +17,8 @@
 </p> 
 
 
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-
-<p>
+## 🚀 Kullandığım Programlar
+<p align="left">
     <a href="https://www.adobe.com/tr/products/xd.html" target="_blank"> <code> <img height="30" src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-adobe-xd.gif"/></code> </a> 
 
 </p>
