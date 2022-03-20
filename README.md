@@ -4,7 +4,7 @@
 
 ## 🚀 Languages
 <p align="left">
-    <a href="https://www.java.com/tr/" target="_blank"> <code><img height="30" src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code></a>    
+    <a href="https://www.java.com/tr/" target="_blank"> <img height="30" src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></a>    
 </p>
 
 <p align="center">
