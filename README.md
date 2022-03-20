@@ -7,23 +7,25 @@
 
 <p align="left">
     <a href="https://flutter.dev/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/fluency/48/000000/flutter.png"/></code> </a>
+    <a href="https://dart.dev/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/dart.png"/></code> </a> 
     <a href="https://www.java.com/tr/" target="_blank"> <code> <img height="30"             src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code> </a> 
     <a href="https://unity.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
-    <a href="https://unity.com/" target="_blank"> <code> <img height="30"             src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code> </a> 
-    <a href="https://www.java.com/tr/" target="_blank"> <code> <img height="30"             src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code> </a> 
-    <a href="https://www.java.com/tr/" target="_blank"> <code> <img height="30"             src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code> </a> 
-    <a href="https://www.java.com/tr/" target="_blank"> <code> <img height="30"             src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code> </a> 
-    <a href="https://www.java.com/tr/" target="_blank"> <code> <img height="30"             src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code> </a> 
-    <a href="https://www.java.com/tr/" target="_blank"> <code> <img height="30"             src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code> </a> 
-    <a href="https://www.java.com/tr/" target="_blank"> <code> <img height="30"             src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code> </a> 
-    <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>
-    
+    <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></code> </a>
+    <a href="https://kotlinlang.org/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
+    <a href="https://unity.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
+    <a href="https://unity.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
+    <a href="https://unity.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
+    <a href="https://unity.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
+    <a href="https://unity.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
+    <a href="https://unity.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
 </p> 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+[deneme]("http://example.com/"){:target="_blank"}
 
+<p>
+    <a href="https://www.adobe.com/tr/products/xd.html" target="_blank"> <code> <img height="30" src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-adobe-xd.gif"/></code> </a> 
 
-
-
-
+</p>
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
