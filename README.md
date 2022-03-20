@@ -1,5 +1,7 @@
 <h1> Selamun Aleyküm 👋</h1>
 <p>İnternet dünyasında kendini yazılımcı olarak geliştirmeye çalışan biri 🌱</p>
+<p>Birçok yazılım dili hakkında temel seviyede bilgi sahibiyim. Son zamanlarda aktif olarak Flutter Framework'ü ile ilgileniyorum.</p>
+
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
