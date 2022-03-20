@@ -3,11 +3,11 @@
 <p>Birçok yazılım dili hakkında temel seviyede bilgi sahibiyim. Son zamanlarda aktif olarak Flutter Framework'ü ile ilgileniyorum.</p>
 
 ## 🚀 Languages
-<p align="left">
+<!-- <p align="left"> -->
     <a href="https://www.java.com/tr/" target="_blank"> <code> <img height="30"             src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-java.gif"></code> </a> 
+    <a href="https://flutter.dev/" target="_blank"> <code> <img src="https://img.icons8.com/fluency/96/000000/flutter.png"/> </code> </a>
     
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/fluency/96/000000/flutter.png"/> </a>
-</p>
+<!-- </p> -->
 
 
 <p align="center">
