@@ -2,7 +2,7 @@
 <p>Birçok yazılım dili hakkında temel seviyede bilgi sahibiyim. Son zamanlarda aktif olarak Flutter Framework'ü ile ilgileniyorum. 🌱</p>
 
 ## 🚀 Öğrendiğim diller[
-
+![](https://github.com/Argedik/argedik/blob/e423c27e61f1a864182356da89580eebc6b27b5e/images/icons8-java.gif)
 
 <p align="left">
     <a href="https://flutter.dev/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/fluency/48/000000/flutter.png"/></code> </a>
