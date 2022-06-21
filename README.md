@@ -21,7 +21,7 @@
     <img height="30" src="https://github.com/Argedik/argedik/blob/main/images/icons8-adobe-xd.gif"/>
     <a href="https://developer.android.com/studio" target="_blank"> <code> <img height="30" src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png"/></code> </a> 
     <a href="https://code.visualstudio.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code> </a> 
-    <a href="https://www.figma.com/" target="_blank"> <code> <img height="30" src="https://raw.githubusercontent.com/Argedik/argedik/main/images/icons8-figma.gif"/></code> </a> 
+    <img height="30" src="https://github.com/Argedik/argedik/blob/main/images/icons8-figma.gif"/>
 </p>
 
 <br></br>
