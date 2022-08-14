@@ -1,7 +1,7 @@
 <h1> Selamun Aleyküm 👋</h1>
 <p>Birçok yazılım dili hakkında temel seviyede bilgi sahibiyim. Son zamanlarda aktif olarak Flutter Framework'ü ile ilgileniyorum. 🌱</p>
 
-## 🚀 Öğrendiğim diller[
+## 🚀 Öğrendiğim diller
 
 <p align="left">
     <a href="https://flutter.dev/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/fluency/48/000000/flutter.png"/></code> </a>
