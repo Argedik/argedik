@@ -89,5 +89,6 @@
 	  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Argedik&v=2&layout=compact&langs_count=12&title_color=fb8c00&bg_color=151515&text_color=fefefe" />
     </a>
 </h6>
-
-[![wakatime](https://wakatime.com/badge/user/4a519368-7452-49c9-84f4-a5bc225bf328.svg)](https://wakatime.com/@4a519368-7452-49c9-84f4-a5bc225bf328)
+<p align="center">
+	[![wakatime](https://wakatime.com/badge/user/4a519368-7452-49c9-84f4-a5bc225bf328.svg)](https://wakatime.com/@4a519368-7452-49c9-84f4-a5bc225bf328)
+</p>
