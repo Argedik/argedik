@@ -13,13 +13,14 @@
     <a href="https://nextjs.org/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/nextjs-icon.svg"/> </a>&nbsp;
     <a href="https://www.w3schools.com/html/" target="_blank"> <img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> &nbsp;
-    <a href="https://getbem.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Bem.png"/> </a> &nbsp;
+    <a href="https://sass-lang.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Sass.png"/> </a> &nbsp;
+    <a href="https://tailwindcss.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Tailwind.png"/> </a> &nbsp;
     <a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Bootstrap.png"/> </a> &nbsp;
+    <a href="https://getbem.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Bem.png"/> </a> &nbsp;
     <a href="https://eslint.org/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/eslint-logo-animation.gif"/> </a> &nbsp;
     <a href="https://jinja.palletsprojects.com/en/3.1.x/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Jinja2.jpg"/> </a> &nbsp;
     <a href="https://jquery.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Jquery.png"/> </a> &nbsp;
-    <a href="https://sass-lang.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Sass.png"/> </a> &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Tailwind.png"/> </a> &nbsp;
+
     <a href="https://www.webcomponents.org/introduction" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Web%20Components.png"/> </a> &nbsp;
 </p>
 
