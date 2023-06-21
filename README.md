@@ -20,7 +20,6 @@
     <a href="https://eslint.org/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/eslint-logo-animation.gif"/> </a> &nbsp;
     <a href="https://jinja.palletsprojects.com/en/3.1.x/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Jinja2.jpg"/> </a> &nbsp;
     <a href="https://jquery.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Jquery.png"/> </a> &nbsp;
-
     <a href="https://www.webcomponents.org/introduction" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Web%20Components.png"/> </a> &nbsp;
 </p>
 
