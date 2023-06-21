@@ -57,6 +57,7 @@
     <a href="https://github.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/github.gif"/> </a> &nbsp;
     <a href="https://bitbucket.org/product" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Bitbucket.png"/> </a> &nbsp;
     <a href="https://www.atlassian.com/software/jira" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/jira.png"/> </a> &nbsp;
+    <a href="https://trello.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/trello.png"/> </a> &nbsp;
     <a href="https://www.linux.org/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/linux.gif"/> </a> &nbsp;
     <a href="https://ubuntu.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/ubuntu.gif"/> </a> &nbsp;
     <a href="https://developer.android.com/studio" target="_blank"><img height="30" src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png"/></a> 
