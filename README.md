@@ -2,7 +2,7 @@
 <p>Şu anda aktif olarak Front-End teknolojileri ile çeşitli e-ticaret sitelerinde geliştirmeler yapıyorum. :closed_book:</p>
 <p>Hobi olarak, Mern Stack Developer teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
 
-<img src='https://github.com/Argedik/argedik/blob/main/images/mern-stack.png'/>
+<img align='middle' src='https://github.com/Argedik/argedik/blob/main/images/mern-stack.png'/>
 
 
 ## 🚀 Front-End
