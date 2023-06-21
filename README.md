@@ -90,7 +90,4 @@
     </a>
 </h6>
 
-<p align="center">
-  <a href="https://wakatime.com/@7c6e9110-18d7-442f-a611-2e018038d865"><img src="https://wakatime.com/badge/user/7c6e9110-18d7-442f-a611-2e018038d865.svg" alt="Total time coded since Jun 21 2023" /></a>
-</p>
-
+[![wakatime](https://wakatime.com/badge/user/4a519368-7452-49c9-84f4-a5bc225bf328.svg)](https://wakatime.com/@4a519368-7452-49c9-84f4-a5bc225bf328)
