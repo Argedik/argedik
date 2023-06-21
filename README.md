@@ -1,6 +1,6 @@
 <h1> Selamün Aleyküm 👋</h1>
 <p>Şu anda aktif olarak Front-End teknolojileri ile çeşitli e-ticaret sitelerinde geliştirmeler yapıyorum. :closed_book:</p>
-<p>Hobi olarak, Mern Stack Developer teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
+<p>Mern Stack Developer teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
 
 <p align="center"><a href="https://github.com/Argedik" target="_blank"><img src='https://github.com/Argedik/argedik/blob/main/images/mern-stack.png'/></a></p>
 
