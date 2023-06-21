@@ -84,12 +84,3 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Argedik&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argedik&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<h6 align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Argedik&v=2&layout=compact&langs_count=12&title_color=fb8c00&bg_color=151515&text_color=fefefe" />
-    </a>
-</h6>
-
-<p align="center">
-    <a href="https://wakatime.com/@4a519368-7452-49c9-84f4-a5bc225bf328"><img src="https://wakatime.com/badge/user/4a519368-7452-49c9-84f4-a5bc225bf328.svg" alt="Total time coded since Jun 21 2023" />
-</a>
