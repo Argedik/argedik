@@ -1,4 +1,4 @@
-<h1> Selamun Aleyküm 👋</h1>
+<h1> Selamün Aleyküm 👋</h1>
 <p>Şu anda aktif olarak Front-End teknolojileri ile çeşitli e-ticaret sitelerinde geliştirmeler yapıyorum. :closed_book:</p>
 <p>Hobi olarak, Mern Stack Developer teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
 
@@ -22,20 +22,23 @@
 
 <br>
 
-## :cyclone: Back-End
-<span align="left">
-    <a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/MongoDB.gif"/> </a> &nbsp;
-    <a href="https://nodejs.org/en" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/nodejs.png"/> </a> &nbsp;
-    <a href="https://www.postgresql.org/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/PostgreSQL.png"/> </a> &nbsp;
-</span>
-
-<br>
-        
-## :iphone: Mobile
-<span align="left">
-    <a href="https://flutter.dev/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/fluency/48/000000/flutter.png"/> </code> </a>&nbsp;
-    <a href="https://dart.dev/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/dart.png"/> </code> </a> &nbsp;
-</span>
+<table align="center">
+  <tr align="center">
+    <td>:cyclone: Back-End</td>
+    <td>:iphone:  Mobile</td>
+  </tr>
+  <tr>
+    <td align="center">
+	<a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/MongoDB.gif"/> </a> &nbsp;
+	<a href="https://nodejs.org/en" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/nodejs.png"/> </a> &nbsp;
+	<a href="https://www.postgresql.org/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/PostgreSQL.png"/> </a> &nbsp;
+    </td>
+    <td align="center">
+	<a href="https://flutter.dev/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/fluency/48/000000/flutter.png"/> </code> </a>&nbsp;
+	<a href="https://dart.dev/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/dart.png"/> </code> </a> &nbsp;
+    </td>
+  </tr>
+</table>
 
 <br>
 
