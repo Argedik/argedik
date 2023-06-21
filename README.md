@@ -69,7 +69,7 @@
     <a href="https://zeplin.io/"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/zeplin.svg"/> </a> &nbsp;
     <a href="https://helpx.adobe.com/support/xd.html"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/icons8-adobe-xd.gif"/></a> 
     <a href="https://www.figma.com/"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/icons8-figma.gif"/></a> 
-    <a href="https://slack.com/"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/icons8-figma.gif"/></a> 
+    <a href="https://slack.com/"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/slack.png"/></a> 
     <a href="https://firebase.google.com/"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Firebase.png"/></a> 
 </p>
 
