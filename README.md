@@ -11,6 +11,7 @@
     <a href="https://developer.mozilla.org/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/icons8-javascript.gif"/> </a>&nbsp;
     <a href="https://react.dev/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/icons8-react.gif"/> </a>&nbsp;
     <a href="https://nextjs.org/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/nextjs-icon.svg"/> </a>&nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/nextjs-icon.svg"/> </a>&nbsp;
     <a href="https://www.w3schools.com/html/" target="_blank"> <img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> &nbsp;
     <a href="https://sass-lang.com/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Sass.png"/> </a> &nbsp;
@@ -80,4 +81,9 @@
 
 <h6 align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Argedik&layout=compact&langs_count=12&title_color=fb8c00&bg_color=151515&text_color=fefefe" />
-</a>
+</h6>
+
+<p align="center">
+  <a href="https://wakatime.com/@7c6e9110-18d7-442f-a611-2e018038d865"><img src="https://wakatime.com/badge/user/7c6e9110-18d7-442f-a611-2e018038d865.svg" alt="Total time coded since Jun 21 2023" /></a>
+</p>
+
