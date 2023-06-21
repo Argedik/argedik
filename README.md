@@ -3,19 +3,16 @@
 <p>Hobi olarak, Mern Stack Developer teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
 
 ## 🚀 Öğrendiğim diller
-https://github.com/Argedik/argedik/blob/main/images/icons8-react.gif
-<p align="left">
-    <a href="https://flutter.dev/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/fluency/48/000000/flutter.png"/></code> </a>
-    <a href="https://dart.dev/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/dart.png"/></code> </a> 
-    <a href="https://kotlinlang.org/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/></code> </a> 
-    <img height="30" src="https://github.com/Argedik/argedik/blob/e423c27e61f1a864182356da89580eebc6b27b5e/images/icons8-java.gif"/>
-    <a href="https://unity.com/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code> </a> 
-    <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></code> </a>
-    <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/icons8-javascript.gif"/> </a>
-    <a href="https://www.w3schools.com/html/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code> </a> 
-    <a href="https://www.w3schools.com/html/" target="_blank"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code> </a> 
-</p>
 
+<p align="left">
+    <a href="https://react.dev/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/icons8-react.gif"/> </a>&nbsp;
+    <a href="https://developer.mozilla.org/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/icons8-javascript.gif"/> </a>&nbsp;
+    <a href="https://react.dev/" target="_blank"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/nextjs-icon.svg"/> </a>&nbsp;
+    <a href="https://www.w3schools.com/html/" target="_blank"> <img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> &nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/> </a> &nbsp;
+    <a href="https://flutter.dev/" target="_blank"> <img height="30" src="https://img.icons8.com/fluency/48/000000/flutter.png"/> </a>&nbsp;
+    <a href="https://dart.dev/" target="_blank"> <img height="30" src="https://img.icons8.com/color/48/000000/dart.png"/></a> &nbsp;
+</p>
 
 ## 🚀 Kullandığım Programlar
 <p align="left">
