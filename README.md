@@ -1,5 +1,5 @@
 <h1> Selamun Aleyküm 👋</h1>
-<p>Şu anda aktif olarak Front-End teknolojileri ile çeşitli e-ticaret sitelerinde geliştirmeler yapıyorum. closed_book	</p>
+<p>Şu anda aktif olarak Front-End teknolojileri ile çeşitli e-ticaret sitelerinde geliştirmeler yapıyorum. :closed_book:		</p>
 <p>Hobi olarak, Mern Stack Developer teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
 
 ## 🚀 Öğrendiğim diller
