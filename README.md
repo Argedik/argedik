@@ -86,7 +86,7 @@
 
 <h6 align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Argedik&layout=compact&langs_count=12&title_color=fb8c00&bg_color=151515&text_color=fefefe&v=2" />
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Argedik&v=2&layout=compact&langs_count=12&title_color=fb8c00&bg_color=151515&text_color=fefefe" />
     </a>
 </h6>
 
