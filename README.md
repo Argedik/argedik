@@ -1,5 +1,5 @@
 <h1> Selamun Aleyküm 👋</h1>
-<p>Birçok yazılım dili hakkında temel seviyede bilgi sahibiyim. Son zamanlarda aktif olarak Flutter Framework'ü ile ilgileniyorum. 🌱</p>
+<p>Mern Stack Developer teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
 
 ## 🚀 Öğrendiğim diller
 
