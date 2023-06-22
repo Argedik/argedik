@@ -1,5 +1,5 @@
 <h1> Selamün Aleyküm 👋</h1>
-<p>Şu anda aktif olarak Front-End teknolojileri ile çeşitli e-ticaret siteleri geliştiriyor ve güncelliyoruz. :closed_book:</p>
+<p>Şu anda aktif olarak Akinon firmasında e-ticaret sitelerini Frond-End teknolojileri ile geliştiriyor ve güncelliyoruz. :closed_book:</p>
 <p>Mern Stack Developer teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
 
 <p align="center"><a href="https://github.com/Argedik"><img src='https://github.com/Argedik/argedik/blob/main/images/mern-stack.png'/></a></p>
