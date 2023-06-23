@@ -2,10 +2,14 @@
 <p>Şu anda aktif olarak Akinon firmasında e-ticaret sitelerini, Frond-End teknolojileri ile geliştiriyor ve güncelliyoruz. :closed_book:</p>
 <p>Mern Stack Developer teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
 
-<p align="center"><a href="https://github.com/Argedik"><img src='https://github.com/Argedik/argedik/blob/main/images/mern-stack.png'/></a></p>
-<p align="center"><a href="https://github.com/Argedik"><img src='https://github.com/Argedik/argedik/blob/main/images/PERN-Stack.png'/></a></p>
+<p align="center">
+    <a href="https://github.com/Argedik"><img height="120" width="240" src='https://github.com/Argedik/argedik/blob/main/images/mern-stack.png'/></a>
+    &nbsp;
+    <a href="https://github.com/Argedik"><img height="120" width="240" src='https://github.com/Argedik/argedik/blob/main/images/mongodb-and-postgresql.png'/></a>
+    &nbsp;
+    <a href="https://github.com/Argedik"><img height="120" width="240" src='https://github.com/Argedik/argedik/blob/main/images/PERN-Stack.png'/></a>
+</p>
 
-mern-stack.png
 ## 🚀 Front-End
 
 <p align="left">
