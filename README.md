@@ -3,8 +3,9 @@
 <p>Mern Stack Developer teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
 
 <p align="center"><a href="https://github.com/Argedik"><img src='https://github.com/Argedik/argedik/blob/main/images/mern-stack.png'/></a></p>
+<p align="center"><a href="https://github.com/Argedik"><img src='https://github.com/Argedik/argedik/blob/main/images/PERN-Stack.png'/></a></p>
 
-
+mern-stack.png
 ## 🚀 Front-End
 
 <p align="left">
