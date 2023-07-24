@@ -1,6 +1,6 @@
 <h1> Selamün Aleyküm 👋</h1>
-<p>Şu anda aktif olarak Akinon firmasında e-ticaret sitelerini, Frond-End teknolojileri ile geliştiriyor ve güncelliyoruz. :closed_book:</p>
-<p>PERN ve MERN, proje ihtiyacına göre RDBMS(PostgreSQL) || NOSQL(MongoDB) kullanarak full-stack teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
+<p>Akinon firmasında e-ticaret sitelerini, Frond-End teknolojileri ile geliştiriyor ve güncelliyoruz. :closed_book:</p>
+<p>Proje ihtiyacına göre, PERN ve MERN, RDBMS(PostgreSQL) || NOSQL(MongoDB) kullanarak full-stack teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
 
 <p align="center">
     <a href="https://github.com/Argedik"><img height="120" width="240" src='https://github.com/Argedik/argedik/blob/main/images/mern-stack.png'/></a>
