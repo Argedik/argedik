@@ -1,4 +1,6 @@
-<h1> Selamün Aleyküm 👋</h1>
+<h1> Selamün Aleyküm <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif"
+         height="40"
+         width="40"></h1>
 <p>Akinon firmasında e-ticaret sitelerini, Frond-End teknolojileri ile geliştiriyor ve güncelliyoruz. :closed_book:</p>
 <p>Proje ihtiyacına göre, PERN ve MERN, RDBMS(PostgreSQL) || NOSQL(MongoDB) kullanarak full-stack teknolojileri üzerinde her geçen gün çeşitli geliştirmeler yapıyorum. 🌱</p>
 
