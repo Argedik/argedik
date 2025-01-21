@@ -1,7 +1,7 @@
 <h1> Selamün Aleyküm <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif"
          height="40"
          width="40"></h1>
-<p>Full-Stack developer (Derinlemesine :closed_book: Rust&#129408; yolcusu🌱) </p>
+<p>Full-Stack developer (Rust&#129408; yolcusu 🌱) </p>
 
 <p align="center">
     <a href="https://github.com/Argedik"><img height="120" width="240" src='https://github.com/Argedik/argedik/blob/main/images/mern-stack.png'/></a>
