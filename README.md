@@ -38,7 +38,6 @@
 <table align="center">
   <tr align="center">
     <td>:cyclone: Back-End</td>
-    <td>:iphone: Mobile</td>
     <td>:cupid: Hobi</td>
   </tr>
   <tr>
