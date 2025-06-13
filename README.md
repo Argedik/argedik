@@ -50,10 +50,6 @@
 	<a href="https://www.prisma.io/"><img height="30" src="https://github.com/Argedik/argedik/blob/main/images/prisma.png"/> </a> &nbsp;
     </td>
     <td align="center">
-	<a href="https://flutter.dev/"> <code> <img height="30" src="https://img.icons8.com/fluency/48/000000/flutter.png"/> </code> </a>&nbsp;
-	<a href="https://dart.dev/"> <code> <img height="30" src="https://img.icons8.com/color/48/000000/dart.png"/> </code> </a> &nbsp;
-    </td>
-    <td align="center">
         <a href="https://www.rust-lang.org/"> <code> <img height="30" src="https://github.com/Argedik/argedik/blob/main/images/rust.png"/> </code></a>
 	<a href="https://doc.rust-lang.org/stable/cargo/"> <code> <img height="30" src="https://github.com/Argedik/argedik/blob/main/images/Cargo-Logo-Small.png"/> </code></a>
     </td>
